@@ -6,7 +6,7 @@ Demo the software at <a href="https://gradeassist.tech" target="_blank">GradeAss
 Use our software
 --
 We are currently looking for school boards or educational institutes to partner with for testing.  
-Please email us at daniellhf@icloud.com if you are interested.
+Please email us at daniel@itsmartinez.com if you are interested.
 
 What it is
 ---
