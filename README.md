@@ -1,7 +1,7 @@
 # GradeAssist
 Your co-pilot for grading written assignments.  
 
-Demo the software at <a href="https://gradeassist.tech" target="_blank">GradeAssist.tech</a>
+Demo the software at <a href="https://gradeassist.alonesolutions.ca" target="_blank">GradeAssist.alonesolutions.ca</a>
 
 Use our software
 --
